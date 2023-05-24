@@ -11,6 +11,7 @@ export type ErrorCode =
     'NE_OS_INVKNPT' |
     'NE_ST_INVSTKY' |
     'NE_ST_STKEYWE' |
+    'NE_ST_NOSTKEX' |
     'NE_RT_INVTOKN' |
     'NE_RT_NATPRME' |
     'NE_RT_APIPRME' |
